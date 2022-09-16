@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there <img width="30px" src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/hi.gif">, I'm <a href="https://chotiya-priya.dev" target="_blank"> Priya Chotiya </a></h1>
 
-Hi, i'm passionate self-taught full stack web developer and a web designer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm passionate self-taught Javascript/Typescript Full Stack Developer and a web designer from india. who likes exploring new technologies and frameworks for web development. I carry a wide range of knowledge and experience working with Angular/React/Node/Express/Mongo-DB/SpringBoot etc. technologies. It's been more than 3yrs since I have been around in product development. I worked on several projects which belong to so many different domains.
 
 Taking simple step everyday
 
