@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there <img width="30px" >, I'm <a href="https://chotiya-priya.dev" target="_blank"> Priya Chotiya </a></h1>
+<h1 align="center"> Hi there  <script src="https://gist.github.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f.js"></script> , I'm <a href="https://chotiya-priya.dev" target="_blank"> Priya Chotiya </a></h1>
 
 Hi, i'm passionate self-taught Javascript/Typescript Full Stack Developer and a web designer from india. who likes exploring new technologies and frameworks for web development. I carry a wide range of knowledge and experience working with Angular/React/Node/Express/Mongo-DB/SpringBoot etc. technologies. It's been more than 3yrs since I have been around in product development. I worked on several projects which belong to so many different domains.
 
